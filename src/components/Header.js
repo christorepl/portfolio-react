@@ -14,7 +14,7 @@ export default class Header extends Component {
                 {resumeData.name}
               </h1>
               <h3 style={{ color: "black", fontFamily: "sans-serif " }}>
-                {resumeData.role}. {resumeData.roleDescription}
+                {resumeData.role}
               </h3>
               <hr />
               <ul className="social">
@@ -38,12 +38,6 @@ export default class Header extends Component {
               </ul>
             </div>
           </div>
-
-          <p className="scrolldown">
-            <a className="smoothscroll" href="#about">
-              <i className="icon-down-circle" style={{ color: "black" }} />
-            </a>
-          </p>
         </header>
       </React.Fragment>
     );
