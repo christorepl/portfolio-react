@@ -1,6 +1,8 @@
 let resumeData = {
   name: "Chris O'Brien",
   role: "Full Stack Developer",
+  roleDescription:
+    "I love working with data and uncovering new information about the inner workings of the world around us. ",
   socialLinks: [
     {
       name: "linkedin",
@@ -14,7 +16,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "As a developer with a strong background in hospitality and growing concern for the prosperity of the world around me, I hope to work with on a team that centers goals of economic or social justice. Any position that would draw inspiration from my personal interests would also be of great interest. In my personal life I enjoy cooking, tabletop games, analyzing data, building computers, video games, music, cats, fermented food and drink, roller skating, ice skating, hiking, gardening, and other outdoor activities.",
+    "I became a developer because I believe software engineering will play an increasingly prevalent and crucial role in peoples' lives and I want to be a part of building that future. In my personal life I enjoy cooking, tabletop games, analyzing data, building computers, video games, music, cats, fermented food and drink, roller skating, ice skating, hiking, gardening, and other outdoor activities.",
   education: [
     {
       UniversityName: "Thinkful",
