@@ -90,6 +90,9 @@ let resumeData = {
     {
       skillname: "jest",
     },
+    {
+      skillname: "Computer hardware",
+    },
   ],
   portfolio: [
     {
@@ -119,16 +122,6 @@ let resumeData = {
       appLink: "https://food-justice-now.vercel.app/home",
       clientRepo: "https://github.com/christorepl/food-deserts",
       serverRepo: "https://github.com/christorepl/food-desert-api",
-    },
-  ],
-  testimonials: [
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
-    },
-    {
-      description: "This is a sample testimonial",
-      name: "Some technical guy",
     },
   ],
 };
