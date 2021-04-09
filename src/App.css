@@ -1,0 +1,185 @@
+body {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.nav-about {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 10em;
+  background-color: teal;
+  inline-size: 15em;
+}
+
+.nav-about h1,
+.nav-about h2 {
+  margin: 20px;
+}
+
+.nav-about p {
+  margin: 15px 80px 5px 80px;
+}
+
+.nav-about h1,
+.nav-about h2,
+.nav-about h3 {
+  color: rgb(159, 221, 159);
+  text-align: center;
+}
+
+.nav-about nav a {
+  list-style: none;
+  font-size: 16px;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.nav-about nav .group .item li a {
+  padding: 0.5em;
+  color: rgb(212, 175, 55);
+}
+
+.nav-about nav .group .item li a:hover {
+  background-color: white;
+  border-radius: 5px;
+}
+
+.nav-about nav .group .item li a:active {
+  color: teal;
+  border-radius: 5px;
+}
+
+.projects {
+  position: relative;
+  top: 30em;
+  left: 1em;
+  padding-bottom: 5em;
+}
+
+.projects h1 {
+  color: teal;
+  text-align: center;
+  font-size: 3em;
+}
+
+.projects h2 {
+  color: teal;
+}
+
+.project {
+  padding: 1em;
+}
+
+.headers {
+  text-align: center;
+}
+
+.group {
+  display: flex;
+  flex-direction: row;
+}
+
+.item {
+  display: flex;
+  flex: 1;
+  margin-bottom: 1em;
+  justify-content: space-around;
+}
+
+.CovidPovertyLink {
+  width: 80%;
+}
+
+@media screen and (min-width: 300px) {
+  .projects {
+    top: 45em;
+  }
+}
+
+@media screen and (min-width: 450px) {
+  .projects {
+    top: 35em;
+  }
+}
+
+/* @media screen and (min-width: 570px) {
+  .projects {
+    top: ;
+  }
+} */
+
+@media screen and (min-width: 750px) {
+  .projects {
+    top: 25em;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .nav-about {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(teal, teal, white);
+    left: 0;
+    top: 0;
+    min-width: 15em;
+    height: 200%;
+    inline-size: 1em;
+    color: rgb(159, 221, 159);
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+
+  .nav-about h1,
+  .nav-about h2 {
+    text-align: left;
+  }
+
+  .nav-about p {
+    margin: 25px;
+  }
+
+  li {
+    margin-left: -3.25em;
+  }
+
+  .projects {
+    position: absolute;
+    top: 0;
+    left: 16em;
+  }
+
+  .projects p {
+    margin-right: 400px;
+  }
+
+  .projects h1 {
+    font-size: 4em;
+    text-align: left;
+  }
+
+  .group {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .item {
+    font-size: 12px;
+    margin: 5px;
+    display: block;
+  }
+
+  .nav-about nav a {
+    list-style: none;
+    margin-left: 1em;
+    font-size: 16px;
+  }
+}
+
+/* 992px and 600px */
