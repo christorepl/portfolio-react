@@ -97,7 +97,7 @@ let resumeData = {
     {
       name: "CovidPovertyLink",
       description:
-        "A front end app with API calls. Enables users to research and compare the COVID-19 rates and poverty rates of US states. Users can select one or more US states and view data related to poverty and COVID-19 rates. Tech: HTML, CSS, Javascript, jQuery, git/github",
+        "A front end app with API calls. Enables users to research and compare the COVID-19 rates and poverty rates of US states. Users can select one or more US states and view data related to poverty and COVID-19 rates. Mobile responsive design. Tech: HTML, CSS, Javascript, jQuery, git/github",
       imgurl: "/images/covid.gif",
       appLink: "https://christorepl.github.io/CovidPovertyLink/",
       clientRepo: "https://github.com/christorepl/CovidPovertyLink",
@@ -105,7 +105,7 @@ let resumeData = {
     {
       name: "Get it to the Table",
       description:
-        "Get it to the Table is like Tinder for board games. No more arguing over what game to play or what new game to buy! Users swipe on games imported from Board Game Atlas lists. Inspired by constant bickering and disagreeing over which game to play or buy. Tech: CSS, Javascript, React, JSX, Vercel, npm, git/ github, node.js, Express, REST, PostgreSQL, Heroku, babel, jest, JSX, AJAX",
+        "Get it to the Table is like Tinder for board games. No more arguing over what game to play or what new game to buy! Users swipe on games imported from Board Game Atlas lists. Inspired by constant bickering and disagreeing over which game to play or buy. Mobile responsive design. Tech: CSS, Javascript, React, JSX, Vercel, npm, git/ github, node.js, Express, REST, PostgreSQL, Heroku, babel, jest, JSX, AJAX",
       imgurl:
         "https://raw.githubusercontent.com/christorepl/gittt-client/main/src/img/swiping.gif",
       appLink: "https://get-it-to-the-table.vercel.app/home",
@@ -115,7 +115,7 @@ let resumeData = {
     {
       name: "Food Justice Now",
       description:
-        "Food Justice Now allows users to inspect racial demographics, 2020 election results, poverty, food insecurity, and COVID-19 rates. Has visual aids in the form of charts and a page devoted to encouraging users to learn more about the surrounding issues and take action. Tech: CSS, Javascript, React, JSX, Vercel, npm, git/github, node.js, Express, REST, PostgreSQL, Heroku, babel, jest, JSX, AJAX",
+        "Food Justice Now allows users to inspect racial demographics, 2020 election results, poverty, food insecurity, and COVID-19 rates. Has visual aids in the form of charts and a page devoted to encouraging users to learn more about the surrounding issues and take action. Mobile responsive design. Tech: CSS, Javascript, React, JSX, Vercel, npm, git/github, node.js, Express, REST, PostgreSQL, Heroku, babel, jest, JSX, AJAX",
       imgurl:
         "https://raw.githubusercontent.com/christorepl/food-deserts/main/src/imgs/fjn.gif",
       appLink: "https://food-justice-now.vercel.app/home",
