@@ -1,8 +1,8 @@
 let resumeData = {
   name: "Chris O'Brien",
-  role: "Full Stack Developer with a customer service oriented mindset.",
+  role: "Full Stack Developer with a customer service oriented mindset",
   roleDescription:
-    "Looking to use my technical skills to support customers and clients for your company.",
+    "Looking to use my technical skills to support customers and clients for your company",
   socialLinks: [
     {
       name: "linkedin",
